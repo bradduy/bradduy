@@ -1,12 +1,7 @@
-# 💻Tech Stack
-- Languages: Python, Java, Javascript, TypeScript.
-- Frameworks and Libraries (AI development): 
-  + General: Pytorch, Tensorflow, Keras, JAX, scikit-learn, HuggingFace, OpenAI.
-  + Natural Language Processing: NLTK, SpaCy, Langchain, LangGraph, Retrieval-Augmented Generation (RAG).
-  + Computer Vision: OpenCV, Detectron2, MMCV, custom CV developments.
-- Frameworks and Libraries (Software development):
-  + Angular, Spring, RestfulAPI.
-- Development Tools: Anaconda, Linux, Git, Postman, VSCode, Jira. 
-- Cloud: Google Cloud Platform (GGP), Internal (DuckDuckGo) Cloud Service.
-- Containerization: Docker, Kubernetes.
-- Database: Oracle, MongoDB, MySQL, SQL Server, Postgresql, Redis.
+# Duy Tran Thanh (Brad Duy)
+
+  **Sr. Applied AI Engineer** — Building production ML systems where model quality, latency, and cost all matter.
+
+  - 📧 bradduy95@gmail.com
+  - 🌐 GitHub: [@bradduy](https://github.com/bradduy) · Hugging Face: [@bradduy](https://huggingface.co/bradduy)
+  - 📍 Open to Applied Scientist / Sr. ML Engineer / Applied AI roles at product-scale teams
